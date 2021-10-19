@@ -9,6 +9,7 @@ warnings.filterwarnings("ignore", category=UserWarning)
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 pd.options.mode.chained_assignment = None  # default='warn'
 
+
 # SET UP ----------------------------------------------------------
 st.set_page_config(
     page_title="EPL 2021-22 Dashboard",
