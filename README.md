@@ -1,13 +1,24 @@
 # EPL-Dashboard
 Premier League Dashboard for 2021-22 Season. Breakdown  stats by league, team, and player.
 
-# Landing Page - League Table and Fixture list by Matchweek
+# Landing Page - League Table
 
-<img width="1275" alt="Screen Shot 2021-10-19 at 11 47 09 AM" src="https://user-images.githubusercontent.com/78511692/137972933-371ecd88-1c90-4392-a758-7f062947f805.png">
+<img width="1440" alt="Screen Shot 2021-11-21 at 8 50 23 AM" src="https://user-images.githubusercontent.com/78511692/142771372-17d6f4c2-8e68-490e-bb1c-76e986800787.png">
+
+# Landing Page - Top 5 Stat Leaders
+
+<img width="990" alt="Screen Shot 2021-11-21 at 8 51 05 AM" src="https://user-images.githubusercontent.com/78511692/142771400-91d20c62-c9f5-4e51-ba38-bed7bc25626d.png">
+
+
 
 # Team Page - Results
 
 <img width="877" alt="Screen Shot 2021-10-19 at 11 47 34 AM" src="https://user-images.githubusercontent.com/78511692/137973167-55a705f1-b0a5-42df-91ca-987a0b160281.png">
+
+# Team Page - Next Opponent
+
+<img width="1051" alt="Screen Shot 2021-11-21 at 8 51 59 AM" src="https://user-images.githubusercontent.com/78511692/142771441-68a43dcd-f18d-45ce-9c2b-a10dc2becc2b.png">
+
 
 # Team Page - Team Stats Bar Chart
 
