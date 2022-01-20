@@ -207,8 +207,9 @@ def epl_ui():
         img_lst = []
         for pl in ply_lst:
             player_dict = FbR.player_imgs(df['squad'][pl])
-            img_ = f'https://resources.premierleague.com/premierleague/photos/players/250x250/{player_dict[pl]}.png'
-            img_lst.append(img_)
+            if pl in player_dict:
+                img_ = f'https://resources.premierleague.com/premierleague/photos/players/250x250/{player_dict[pl]}.png'
+                img_lst.append(img_)
         return img_lst
 
     for num, col in enumerate(col_lst):
