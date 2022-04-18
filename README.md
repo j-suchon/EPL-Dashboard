@@ -1,12 +1,14 @@
 # EPL-Dashboard
 Premier League Dashboard for 2021-22 Season. Breakdown  stats by league, team, and player.
 
+https://share.streamlit.io/j-suchon/epl-dashboard/run_app.py
+
 This app is a dashboard that runs an analysis on any desired EPL player or squad. Visualizations of various statistics are displayed for the selected player or squad. They are briefly described below:
 
 EPL Page
 Current League Table - A snapshot of the current league table. The champions league, europa league, and relegation spots are highlighted in green, blue, and red, respectively.
 
-Top 5 Stat League Leaders - A display of the top 5 players for each stat in the dropdown and their headshot sourced from http://www.premierleague.com.
+Top 5 Stat League Leaders - A display of the top 5 players for each stat in the dropdown and their headshot sourced from premierleague.com
 
 Stats include:
 Goals, Assists, Key Passes, Passes into final 3rd, Goal-creating Actions, Shot-creating Actions, Tackles Won, Pressures, Blocked Shots, Interceptions, Dribbles Completed, Progressive Carries, Carries into final 3rd, Aerial Duel Win %
